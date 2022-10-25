@@ -78,21 +78,21 @@
           <label for="inputAlamat" class="form-label">Jenis Kelamin</label>
           <select class="form-select" class="form-control" name="jenis_kelamin" aria-label="Default select example">
             <option selected>Pilih</option>
-            <option value="1">LAKI-LAKI</option>
-            <option value="2">PEREMPUAN</option>
+            <option value="LAKI-LAKI">LAKI-LAKI</option>
+            <option value="PEREMPUAN">PEREMPUAN</option>
           </select>
         </div>
         <div class="col-md-12">
           <label for="inputAgama" class="form-label">Agama</label>
           <select class="form-select" class="form-control" name="agama" aria-label="Default select example">
             <option selected>Pilih</option>
-            <option value="1">Islam</option>
-            <option value="2">Kristen</option>
-            <option value="3">Khatolik</option>
-            <option value="4">Budha</option>
-            <option value="5">Hindu</option>
-            <option value="5">Khonghucu</option>
-            <option value="5">Protestan</option>
+            <option value="Islam">Islam</option>
+            <option value="Kristen">Kristen</option>
+            <option value="Khatolik">Khatolik</option>
+            <option value="Budha">Budha</option>
+            <option value="Hindu">Hindu</option>
+            <option value="Khonghucu">Khonghucu</option>
+            <option value="Protestan">Protestan</option>
         </div>
         </select>
         <div class="col-12">
